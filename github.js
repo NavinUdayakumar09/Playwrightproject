@@ -40,6 +40,8 @@ console.log(a)
 
 // git init - used to create new github repository
 // git clone - copy repository from remote source
+// git push origin main - upload commit to a remore repository
+// git pull origin main - fetch and merge updates from remote repository
 // pwd - print working directory
 // git --version - git version 2.45.1.windows.1
 // ls - list files(-) and directories(d)
