@@ -40,6 +40,9 @@ console.log(a)
 
 // git init - used to create new github repository
 // git clone - copy repository from remote source
+// git status - shows the current state of working directory
+// git add - stages changes for commit
+// git commit - save changes with a message
 // git push origin main - upload commit to a remore repository
 // git pull origin main - fetch and merge updates from remote repository
 // pwd - print working directory
@@ -47,3 +50,4 @@ console.log(a)
 // ls - list files(-) and directories(d)
 // cd - change directory
 // cat - display file contents
+// cp - copy files or repositories
