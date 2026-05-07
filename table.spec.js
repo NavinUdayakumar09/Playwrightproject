@@ -105,3 +105,5 @@ test('table', async ({ page }) => {
     console.log("header length:",header.length)
 
 })
+
+//Added sample text
